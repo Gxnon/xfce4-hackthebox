@@ -1,0 +1,7 @@
+[Scheme]
+Name=HackTheBox
+ColorCursor=#313f55
+ColorForeground=#a4b1cd
+ColorBackground=#1a2332
+ColorPalette=#000000;#ff3e3e;#9fef00;#ffaf00;#004cff;#9f00ff;#2ee7b6;#ffffff;#666666;#ff8484;#c5f467;#ffcc5c;#5cb2ff;#c16cfa;#5cecc6;#ffffff
+ColorCursorUseDefault=TRUE
